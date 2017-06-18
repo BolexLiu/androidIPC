@@ -1,4 +1,4 @@
-package com.bolex.androidhook.remoteservice;
+package com.bolex.androidIPC.remoteservice;
 
 import android.app.Service;
 import android.content.ComponentName;

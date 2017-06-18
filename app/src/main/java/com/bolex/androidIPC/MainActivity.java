@@ -1,10 +1,10 @@
-package com.bolex.androidhook;
+package com.bolex.androidIPC;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-import com.bolex.androidhook.remoteservice.LocService;
+import com.bolex.androidIPC.remoteservice.LocService;
 
 public class MainActivity extends AppCompatActivity {
 
